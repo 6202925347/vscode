@@ -18,7 +18,7 @@ public class As2_q1 {
         double DA = basic * (100 / 100);
         double PF = 3000;
         double total = (basic + HRA + DA) - PF;
-        System.out.println(total);
+        System.out.println(total); 
         if (total >= 50000) {
             // System.out.println("total selary is " + total + "grade is A");
             String a = "total sellary is " + total + "Grade is A";
